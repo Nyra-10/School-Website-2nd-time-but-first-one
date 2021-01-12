@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+}
+marquee{
+    background color: skyblue;
+    color: black;
+}
+h1{
+    font-size: 18px;
+    color: darkblue;
+}
